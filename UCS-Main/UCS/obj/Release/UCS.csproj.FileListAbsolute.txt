@@ -1,0 +1,62 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\bin\Release\UCS.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\bin\Release\UCS.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\bin\Release\UCS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\bin\Release\Microsoft.WindowsCE.Forms.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Discard.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Form_admin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Inovice.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.proximity.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Reporting.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Shop_Items.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.Username.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Release\UCS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\bin\Release\UCS.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\bin\Release\UCS.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\bin\Release\UCS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Discard.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Form_admin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Inovice.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.proximity.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Reporting.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.Shop_Items.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\bk\final\UCS\obj\Release\UCS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\bin\Release\UCS.exe.config
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\bin\Release\UCS.exe
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\bin\Release\UCS.pdb
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Discard.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Form1.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Form2.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Form3.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Form4.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Form_admin.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Inovice.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Login.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.proximity.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Reporting.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.Shop_Items.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.exe
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Release\UCS.pdb
+C:\Users\Administrator\Desktop\University Canteen System by Diyanada Group\UCS-Main\UCS\bin\Release\UCS.exe.config
+C:\Users\Administrator\Desktop\University Canteen System by Diyanada Group\UCS-Main\UCS\obj\Release\UCS.exe
+C:\Users\Administrator\Desktop\University Canteen System by Diyanada Group\UCS-Main\UCS\obj\Release\UCS.pdb

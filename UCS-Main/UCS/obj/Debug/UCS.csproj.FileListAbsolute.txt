@@ -1,0 +1,64 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\bin\Debug\UCS.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\bin\Debug\UCS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.proximity.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Form_admin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Username.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\bin\Debug\UCS.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Shop_Items.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Inovice.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\bin\Debug\UCS.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\bin\Debug\UCS.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\bin\Debug\UCS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.Form_admin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.Inovice.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.proximity.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.Shop_Items.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.Username.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS - Copy\UCS\obj\Debug\UCS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Discard.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS\UCS\obj\Debug\UCS.Reporting.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\bin\Debug\UCS.exe.config
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\bin\Debug\UCS.exe
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\bin\Debug\UCS.pdb
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Discard.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Form1.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Form2.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Form3.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Form4.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Form_admin.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Inovice.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Login.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.proximity.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Reporting.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.Shop_Items.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.exe
+C:\Users\Administrator\Desktop\UCS\UCS-Main\UCS\obj\Debug\UCS.pdb
+C:\Users\Administrator\Desktop\University Canteen System by Diyanada Group\UCS-Main\UCS\bin\Debug\UCS.exe.config
+C:\Users\Administrator\Desktop\University Canteen System by Diyanada Group\UCS-Main\UCS\obj\Debug\UCS.exe
+C:\Users\Administrator\Desktop\University Canteen System by Diyanada Group\UCS-Main\UCS\obj\Debug\UCS.pdb
+E:\University Canteen System by Diyanada Group\UCS-Main\UCS\bin\Debug\UCS.exe.config
+E:\University Canteen System by Diyanada Group\UCS-Main\UCS\obj\Debug\UCS.exe
+E:\University Canteen System by Diyanada Group\UCS-Main\UCS\obj\Debug\UCS.pdb

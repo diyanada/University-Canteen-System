@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS-Starter\UCS-Starter\bin\Debug\UCS-Starter.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS-Starter\UCS-Starter\bin\Debug\UCS-Starter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS-Starter\UCS-Starter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS-Starter\UCS-Starter\obj\Debug\UCS_Starter.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS-Starter\UCS-Starter\obj\Debug\UCS_Starter.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS-Starter\UCS-Starter\obj\Debug\UCS-Starter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS-Starter\UCS-Starter\obj\Debug\UCS-Starter.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS-Starter\UCS-Starter\obj\Debug\UCS-Starter.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\UCS-Starter\UCS-Starter\bin\Debug\UCS-Starter.exe.config
+C:\Users\Administrator\Desktop\UCS\UCS-Starter\UCS-Starter\bin\Debug\UCS-Starter.exe.config
+C:\Users\Administrator\Desktop\UCS\UCS-Starter\UCS-Starter\bin\Debug\UCS-Starter.exe
+C:\Users\Administrator\Desktop\UCS\UCS-Starter\UCS-Starter\bin\Debug\UCS-Starter.pdb
+C:\Users\Administrator\Desktop\UCS\UCS-Starter\UCS-Starter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UCS\UCS-Starter\UCS-Starter\obj\Debug\UCS_Starter.Form1.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Starter\UCS-Starter\obj\Debug\UCS_Starter.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UCS\UCS-Starter\UCS-Starter\obj\Debug\UCS-Starter.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\UCS\UCS-Starter\UCS-Starter\obj\Debug\UCS-Starter.exe
+C:\Users\Administrator\Desktop\UCS\UCS-Starter\UCS-Starter\obj\Debug\UCS-Starter.pdb

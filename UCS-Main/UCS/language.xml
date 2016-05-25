@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language>
+  <ENGLISH>
+    <add er_1001="no validation in thi admin login so plese duble check your input and prss ok" 
+         er_1002="no validation ihhn thi admin login so plese duble check your input and prss ok"
+         er_1003="no validation ihhn thi admin login so plese duble check your input and prss ok"
+         />
+    
+  </ENGLISH>
+  <SINHALA>
+    <add er_1001="ශ්‍රී ලංකාවේ ප්‍රධාන ජාතිය වන සිංහල ජනයාගේ මව් බස සිංහල වෙයි. අද වන විට මිලියන 20 කට අධික සිංහල සහ මිලියන 3කට අධික සිංහල නොවන ජනගහනයක් සිංහල භාෂාව භාවිත කරති. සිංහල"
+         er_1002="ශ්‍රී ලංකාවේ ප්‍රධාන ජාතිය වන සිංහල ජනයාගේ මව් බස සිංහල වෙයි. අද වන විට මිලියන 20 කට අධික සිංහල සහ මිලියන 3කට අධික සිංහල නොවන ජනගහනයක් සිංහල භාෂාව භාවිත කරති. සිංහල"
+         />
+  </SINHALA>
+  <TAMIL>
+    <add er_1001="ශ්‍රී ලංකාවේ ප්‍රධාන ජාතිය වන සිංහල ජනයාගේ මව් බස සිංහල වෙයි. අද වන විට මිලියන 20 කට අධික සිංහල සහ මිලියන 3කට අධික සිංහල නොවන ජනගහනයක් සිංහල භාෂාව භාවිත කරති. සිංහල"
+         er_1002="ශ්‍රී ලංකාවේ ප්‍රධාන ජාතිය වන සිංහල ජනයාගේ මව් බස සිංහල වෙයි. අද වන විට මිලියන 20 කට අධික සිංහල සහ මිලියන 3කට අධික සිංහල නොවන ජනගහනයක් සිංහල භාෂාව භාවිත කරති. සිංහල"
+         />
+  </TAMIL>
+</language> 

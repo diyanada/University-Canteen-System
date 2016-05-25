@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UCS-Starter", "UCS-Starter\UCS-Starter.csproj", "{FB4CEDA0-31DD-4C0C-AC3B-080219ACD928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4CEDA0-31DD-4C0C-AC3B-080219ACD928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4CEDA0-31DD-4C0C-AC3B-080219ACD928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4CEDA0-31DD-4C0C-AC3B-080219ACD928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4CEDA0-31DD-4C0C-AC3B-080219ACD928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
